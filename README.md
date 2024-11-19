@@ -17,6 +17,8 @@ user-profile-api/
 ├── config.js      # Firebase configuration
 ├── index.js       # API routes and server setup
 ├── .env           # Environment variables
+├── index.html
+├── tailwind.config.js
 ├── .gitignore
 └── package.json
 ```
